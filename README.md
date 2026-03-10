@@ -8,5 +8,11 @@ La empresa quiere anticiparse al problema de la cancelación, y te corresponde a
 * Python (Google Colab)
 * Pandas, Numpy
 * De Matplotlip su módulo pyplot
-* sklearn
-**
+* sklearn (model_selection/ensemble/metrics)
+  * RandomForesClassifer
+  * KNeighborsClassifier
+Para balanceo 
+
+* imblearn (under_sanmple/over_sample,pipeline)
+  * SMOTE
+  * NearMiss
