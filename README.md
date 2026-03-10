@@ -1,6 +1,6 @@
 # Telecom-X-Machine-Learning
 El proyecto se puede ejecutar en el siguiente enlace.
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marmalux/Telecom-X-Machine-Learning/blob/main/Churn_de_clientes_Telecom_X.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marmalux/Telecom-X-Machine-Learning/blob/main/Churn_de_clientes_Telecom_X.ipynb)
 
 ## Objetivo
 La misión es crear modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
