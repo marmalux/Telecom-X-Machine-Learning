@@ -33,4 +33,7 @@ url_api = 'https://github.com/marmalux/Telecom-X-Machine-Learning/raw/refs/heads
 
 Aqui se eliminan columnas que no son necesarias para el modelo como el Id, tambien columnas que se obtienen a partir de otras como el cargo mensual y cargo diario, o la cantidad de servicios usados para que no interfieran en el modelo
 
-### Análisis visual
+### Análisis visual 
+Aquí vemos algunos comportamientos de nuestras variables a partir de nuestro mapa de calor una vez aplicado la codificación
+
+![mapa calor](imagenes/correlacion_heatmap.png)
